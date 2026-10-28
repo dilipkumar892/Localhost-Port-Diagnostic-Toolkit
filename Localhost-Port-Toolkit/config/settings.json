@@ -1,0 +1,66 @@
+{
+  "toolkit_name": "Localhost & Port Diagnostic Toolkit",
+  "version": "1.0.0",
+  "author": "Network Diagnostics Engineering Team",
+  "safe_mode": true,
+  "enable_color_output": true,
+  "http_timeout_seconds": 5,
+  "log_retention_days": 30,
+  "common_ports": [
+    3000,
+    3001,
+    4173,
+    4200,
+    5000,
+    5173,
+    5500,
+    8000,
+    8080,
+    8081,
+    8888,
+    9000
+  ],
+  "port_descriptions": {
+    "3000": "React / Next.js / Express / Node.js default",
+    "3001": "React secondary / Alternative Node.js",
+    "4173": "Vite preview server",
+    "4200": "Angular CLI dev server",
+    "5000": "Flask default / ASP.NET Core HTTP",
+    "5173": "Vite dev server (Svelte, Vue, React)",
+    "5500": "VS Code Live Server extension",
+    "8000": "Python http.server / Django dev server",
+    "8080": "Tomcat / Spring Boot / Vue CLI dev server",
+    "8081": "Metro Bundler (React Native) / Alternative web",
+    "8888": "Jupyter Notebook / Python dev server",
+    "9000": "PHP-FPM / SonarQube / Microservices"
+  },
+  "critical_processes": [
+    "system",
+    "idle",
+    "smss",
+    "csrss",
+    "wininit",
+    "services",
+    "lsass",
+    "lsm",
+    "svchost",
+    "explorer",
+    "winlogon",
+    "spoolsv",
+    "dwm",
+    "audiodg",
+    "fontdrvhost",
+    "sihost",
+    "taskhostw",
+    "securityhealthservice",
+    "searchhost",
+    "startmenuexperiencehost"
+  ],
+  "hosting_defaults": {
+    "python_default_port": 8000,
+    "node_default_port": 3000,
+    "default_bind_address": "127.0.0.1",
+    "lan_bind_address": "0.0.0.0"
+  }
+}
+

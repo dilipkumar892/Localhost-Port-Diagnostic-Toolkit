@@ -1,0 +1,53 @@
+﻿# ==============================================================================
+# Localhost & Port Diagnostic Toolkit Session Log - 2026-10-28
+# Machine: DESKTOP-6E3FRKA | User: Dilip
+# ==============================================================================
+[2026-10-28 18:35:05.157] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:36:23.794] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:45:13.044] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:47:09.118] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:48:31.040] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:48:46.581] [WARN ] [FIREWALL    ] Get-NetFirewallRule failed: Access is denied. 
+[2026-10-28 18:48:49.351] [INFO ] [REPORT      ] Report generated: C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\reports\diagnostic_report_20261028_184849.html
+[2026-10-28 18:49:54.316] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:49:54.324] [WARN ] [FIREWALL    ] Get-NetFirewallRule failed: Access is denied. 
+[2026-10-28 18:52:57.533] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:53:05.388] [WARN ] [FIREWALL    ] Get-NetFirewallRule failed: Access is denied. 
+[2026-10-28 18:53:07.803] [INFO ] [REPORT      ] Report generated: C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\reports\diagnostic_report_20261028_185307.html
+[2026-10-28 18:54:38.298] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:54:38.554] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:54:38.557] [INFO ] [ROUTER      ] Menu option selected: 1
+[2026-10-28 18:54:38.820] [INFO ] [LOCALHOST   ] Localhost test completed. IPv4: True, IPv6: True
+[2026-10-28 18:54:47.887] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:54:48.120] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:54:48.120] [INFO ] [ROUTER      ] Menu option selected: 2
+[2026-10-28 18:54:54.755] [INFO ] [PORTS       ] Scanned 12 ports. 0 in use.
+[2026-10-28 18:55:00.844] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:55:01.067] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:55:01.067] [INFO ] [ROUTER      ] Menu option selected: 3
+[2026-10-28 18:55:12.002] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:55:12.238] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:55:12.238] [INFO ] [ROUTER      ] Menu option selected: 4
+[2026-10-28 18:55:29.027] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:55:29.263] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:55:29.263] [INFO ] [ROUTER      ] Menu option selected: 8
+[2026-10-28 18:55:55.882] [INFO ] [LAN         ] Inspected active adapters and generated LAN URLs.
+[2026-10-28 18:56:16.731] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:56:16.974] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:56:16.974] [INFO ] [ROUTER      ] Menu option selected: 9
+[2026-10-28 18:56:26.579] [WARN ] [FIREWALL    ] Get-NetFirewallRule failed: Access is denied. 
+[2026-10-28 18:56:26.596] [INFO ] [FIREWALL    ] Firewall diagnostics completed.
+[2026-10-28 18:56:37.887] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:56:38.125] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:56:38.125] [INFO ] [ROUTER      ] Menu option selected: 10
+[2026-10-28 18:56:41.030] [INFO ] [IPV4        ] Completed IPv4 diagnostics for 5 interfaces.
+[2026-10-28 18:56:58.560] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:56:58.814] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:56:58.814] [INFO ] [ROUTER      ] Menu option selected: 12
+[2026-10-28 18:57:11.621] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:57:11.872] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:57:11.872] [INFO ] [ROUTER      ] Menu option selected: 13
+[2026-10-28 18:57:30.163] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:57:30.406] [INFO ] [SYSTEM      ] Logger initialized at C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\logs\diagnostic_2026-10-28.log
+[2026-10-28 18:57:30.406] [INFO ] [ROUTER      ] Menu option selected: 14
+[2026-10-28 18:57:35.596] [INFO ] [REPORT      ] Report generated: C:\Users\Dilip\Documents\Projects\Localhost & Port Diagnostic Toolkit\Localhost-Port-Toolkit\reports\diagnostic_report_20261028_185735.html
